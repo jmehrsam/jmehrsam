@@ -9,7 +9,9 @@
 
 ### My IT journey
 I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal VET Diploma Specialism ICT System Operation at [University of Applied Sciences Northwestern Switzerland](FHNW). In 2021 I graduated from my apprenticeship with the Federal VET Diploma and Federal Vocational Baccalaureate.
-My final apprenticeship exam was the creating of an Emergency Datacenter Switchover POC built ontop of VMware ESXi and HPE 3PAR SAN. I accomplished the implementation by using VMWare PowerCLI to move the VM between the hosts, [Posh-SSH](Posh-SSH)
+My final apprenticeship exam was the creating of an Emergency Datacenter Switchover POC built ontop of VMware ESXi and HPE 3PAR SAN. I accomplished the implementation by using PowerShell Scripts with VMWare PowerCLI to move the VM between the hosts and manage the sourcehosts shutdown, [Posh-SSH](Posh-SSH) to switchover the LUN of the 3PAR and a Website with PHP to trigger the neccessary scripts in order.
+After my apprenticeship I briefly worked in a SMB in the role as IT Supporter. I got to know the basics of Microsoft Intune in an hybrid on premise & cloud enviroment.
+
 
 ### Connect with me:
 
