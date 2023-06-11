@@ -1,4 +1,4 @@
-### Hi there, I'm Janis Marco 👋
+### Hello there, I'm Janis Marco 👋
 
 ## I'm a Junior System Engineer, Gamer and Server-Enthusiast!!
 
@@ -6,6 +6,7 @@
 - 🌱 I’m currently dabbling in C# 
 - 🥅 2023 Goals: Gain practical experience with Veeam B&R
 - ⚡ Fun fact: Volunteer Firefighter
+- 🎥 My favorite movies are the original trilogy and prequels of Star Wars
 
 ### My IT journey
 I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal VET Diploma Specialism ICT System Operation at [University of Applied Sciences Northwestern Switzerland](FHNW). In 2021 I graduated from my apprenticeship with the Federal VET Diploma and Federal Vocational Baccalaureate.
