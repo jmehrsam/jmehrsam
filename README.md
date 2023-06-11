@@ -1,11 +1,12 @@
 ### Hi there, I'm Janis Marco 👋
 
-## I'm a Trainee, Gamer and Server-Enthusiast!!
+## I'm a Junior System Engineer, Gamer and Server-Enthusiast!!
 
 
-- 🌱 I’m currently learning Python 
-- 🥅 2021 Goals: Finish my apprenticeship
-- ⚡ Fun fact: None... ¯\_(ツ)_/¯ 
+- 🌱 I’m currently dabbling in C# 
+- 🥅 2023 Goals: Finish my apprenticeship
+- ⚡ Fun fact: Volunteer Firefighter
+- 
 
 
 ### Connect with me:
@@ -30,10 +31,11 @@
 
 ### Operating Systems:
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />
 <img align="left" alt="VMWare" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vmware.svg" />
+<img align="left" alt="openSUSE" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opensuse.svg" />
 <img align="left" alt="Proxmox VE" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/proxmox.svg" />
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />
 <img align="left" alt="TrueNAS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/truenas.svg" />
 
-[website]: https://gendufour.ch
+[website]: under construction
 [linkedin]: https://linkedin.com/in/janis-marco-ehrsam-160221197/
