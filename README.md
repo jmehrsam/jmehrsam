@@ -8,7 +8,8 @@
 - ⚡ Fun fact: Volunteer Firefighter
 
 ### My IT journey
-I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal Diploma of Vocational Education and Training Specialism ICT System Operation at [University of Applied Sciences Northwestern Switzerland](FHNW).
+I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal VET Diploma Specialism ICT System Operation at [University of Applied Sciences Northwestern Switzerland](FHNW). In 2021 I graduated from my apprenticeship with the Federal VET Diploma and Federal Vocational Baccalaureate.
+My final apprenticeship exam was the creating of an Emergency Datacenter Switchover POC built ontop of VMware ESXi and HPE 3PAR SAN. I accomplished the implementation by using VMWare PowerCLI to move the VM between the hosts, [Posh-SSH](Posh-SSH)
 
 ### Connect with me:
 
@@ -41,3 +42,4 @@ I started my journey in 2017 when I started my apprenticeship as Information Tec
 [website]: https://ehrsam.tech
 [linkedin]: https://linkedin.com/in/janis-marco-ehrsam-160221197/
 [FHNW]: https://www.fhnw.ch/en/
+[Posh-SSH]: https://github.com/darkoperator/Posh-SSH
