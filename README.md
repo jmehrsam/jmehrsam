@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Volunteer Firefighter
 
 ### My IT journey
-I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal Diploma of Vocational Education and Training Specialism ICT System Operation at University of [Applied Sciences Northwestern Switzerland](FHNW).
+I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal Diploma of Vocational Education and Training Specialism ICT System Operation at [University of Applied Sciences Northwestern Switzerland](FHNW).
 
 ### Connect with me:
 
