@@ -4,9 +4,11 @@
 
 
 - 🌱 I’m currently dabbling in C# 
-- 🥅 2023 Goals: Finish my apprenticeship
+- 🥅 2023 Goals: Gain practical experience with Veeam B&R
 - ⚡ Fun fact: Volunteer Firefighter
 
+### My IT journey
+I started my journey in 2017 when I started my apprenticeship as Information Technologist, Federal Diploma of Vocational Education and Training Specialism ICT System Operation at University of Applied Sciences Northwestern Switzerland[FHNW]
 
 ### Connect with me:
 
@@ -38,3 +40,4 @@
 
 [website]: https://ehrsam.tech
 [linkedin]: https://linkedin.com/in/janis-marco-ehrsam-160221197/
+[FHNW]: https://www.fhnw.ch/en/
