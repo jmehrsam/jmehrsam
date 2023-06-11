@@ -6,7 +6,6 @@
 - 🌱 I’m currently dabbling in C# 
 - 🥅 2023 Goals: Finish my apprenticeship
 - ⚡ Fun fact: Volunteer Firefighter
-- 
 
 
 ### Connect with me:
@@ -37,5 +36,5 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />
 <img align="left" alt="TrueNAS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/truenas.svg" />
 
-[website]: under construction
+[website]: https://ehrsam.tech
 [linkedin]: https://linkedin.com/in/janis-marco-ehrsam-160221197/
